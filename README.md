@@ -24,3 +24,6 @@
 6. **Copyright and Exit:**
    - The application prints a copyright notice and GitHub link.
    - Press 'R' to exit the application.
+  
+## License
+      This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
